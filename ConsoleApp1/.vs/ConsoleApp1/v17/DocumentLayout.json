@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web Development\\CSharp\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D279A80-49A9-4FC3-BF45-4071545CD0FC}|ConsoleApp1\\ConsoleApp1.vbproj|d:\\web development\\csharp\\consoleapp1\\consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7D279A80-49A9-4FC3-BF45-4071545CD0FC}|ConsoleApp1\\ConsoleApp1.vbproj|solutionrelative:consoleapp1\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.vb",
+              "DocumentMoniker": "D:\\Web Development\\CSharp\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.vb",
+              "ToolTip": "D:\\Web Development\\CSharp\\ConsoleApp1\\ConsoleApp1\\Program.vb",
+              "RelativeToolTip": "ConsoleApp1\\Program.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-09T16:25:43.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

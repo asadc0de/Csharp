@@ -1,0 +1,16 @@
+D:\Web Development\CSharp\form3\form3\bin\Debug\net8.0-windows\form3.exe
+D:\Web Development\CSharp\form3\form3\bin\Debug\net8.0-windows\form3.deps.json
+D:\Web Development\CSharp\form3\form3\bin\Debug\net8.0-windows\form3.runtimeconfig.json
+D:\Web Development\CSharp\form3\form3\bin\Debug\net8.0-windows\form3.dll
+D:\Web Development\CSharp\form3\form3\bin\Debug\net8.0-windows\form3.pdb
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.Form1.resources
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.csproj.GenerateResource.cache
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.AssemblyInfoInputs.cache
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.AssemblyInfo.cs
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.csproj.CoreCompileInputs.cache
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.dll
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\refint\form3.dll
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.pdb
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\form3.genruntimeconfig.cache
+D:\Web Development\CSharp\form3\form3\obj\Debug\net8.0-windows\ref\form3.dll

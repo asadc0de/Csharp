@@ -1,0 +1,17 @@
+D:\Web Development\CSharp\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.exe
+D:\Web Development\CSharp\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.deps.json
+D:\Web Development\CSharp\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.runtimeconfig.json
+D:\Web Development\CSharp\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.dll
+D:\Web Development\CSharp\PictureBox\PictureBox\bin\Debug\net8.0-windows\PictureBox.pdb
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.Form1.resources
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.Properties.Resources.resources
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.csproj.GenerateResource.cache
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.AssemblyInfoInputs.cache
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.AssemblyInfo.cs
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.csproj.CoreCompileInputs.cache
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.dll
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\refint\PictureBox.dll
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.pdb
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\PictureBox.genruntimeconfig.cache
+D:\Web Development\CSharp\PictureBox\PictureBox\obj\Debug\net8.0-windows\ref\PictureBox.dll

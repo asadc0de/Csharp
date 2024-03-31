@@ -1,0 +1,10 @@
+D:\Web Development\CSharp\form2\form2\bin\Debug\form2.exe.config
+D:\Web Development\CSharp\form2\form2\bin\Debug\form2.exe
+D:\Web Development\CSharp\form2\form2\bin\Debug\form2.pdb
+D:\Web Development\CSharp\form2\form2\obj\Debug\form2.csproj.AssemblyReference.cache
+D:\Web Development\CSharp\form2\form2\obj\Debug\form2.Form1.resources
+D:\Web Development\CSharp\form2\form2\obj\Debug\form2.Properties.Resources.resources
+D:\Web Development\CSharp\form2\form2\obj\Debug\form2.csproj.GenerateResource.cache
+D:\Web Development\CSharp\form2\form2\obj\Debug\form2.csproj.CoreCompileInputs.cache
+D:\Web Development\CSharp\form2\form2\obj\Debug\form2.exe
+D:\Web Development\CSharp\form2\form2\obj\Debug\form2.pdb

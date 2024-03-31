@@ -1,0 +1,6 @@
+D:\Web Development\CSharp\form4\form4\obj\Debug\net8.0-windows\form4.Form1.resources
+D:\Web Development\CSharp\form4\form4\obj\Debug\net8.0-windows\form4.csproj.GenerateResource.cache
+D:\Web Development\CSharp\form4\form4\obj\Debug\net8.0-windows\form4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\CSharp\form4\form4\obj\Debug\net8.0-windows\form4.AssemblyInfoInputs.cache
+D:\Web Development\CSharp\form4\form4\obj\Debug\net8.0-windows\form4.AssemblyInfo.cs
+D:\Web Development\CSharp\form4\form4\obj\Debug\net8.0-windows\form4.csproj.CoreCompileInputs.cache

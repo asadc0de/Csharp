@@ -1,0 +1,16 @@
+D:\Web Development\CSharp\helloworld\helloworld\bin\Debug\net8.0-windows\helloworld.exe
+D:\Web Development\CSharp\helloworld\helloworld\bin\Debug\net8.0-windows\helloworld.deps.json
+D:\Web Development\CSharp\helloworld\helloworld\bin\Debug\net8.0-windows\helloworld.runtimeconfig.json
+D:\Web Development\CSharp\helloworld\helloworld\bin\Debug\net8.0-windows\helloworld.dll
+D:\Web Development\CSharp\helloworld\helloworld\bin\Debug\net8.0-windows\helloworld.pdb
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.Form1.resources
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.csproj.GenerateResource.cache
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.AssemblyInfoInputs.cache
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.AssemblyInfo.cs
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.csproj.CoreCompileInputs.cache
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.dll
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\refint\helloworld.dll
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.pdb
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\helloworld.genruntimeconfig.cache
+D:\Web Development\CSharp\helloworld\helloworld\obj\Debug\net8.0-windows\ref\helloworld.dll

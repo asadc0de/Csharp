@@ -1,0 +1,14 @@
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+D:\Web Development\CSharp\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
